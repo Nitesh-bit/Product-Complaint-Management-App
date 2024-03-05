@@ -1,0 +1,149 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #ffc374;
+}
+
+.header {
+  background-color: #124076;
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+}
+
+.app {
+  display: flex;
+}
+
+.product-list {
+  width: 30%;
+  height: 87vh;
+  background-color: #f9e897;
+}
+
+.complaint-window {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+}
+
+.product {
+  display: flex;
+  justify-content: space-around;
+  background-color: #7f9f80c4;
+  border-radius: 100px;
+  color: #2f1f1f;
+  margin: 7px 4px 7px 4px;
+}
+.product-img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  padding: 20px 0 20px 0;
+}
+
+.selectBtn {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: #2f1f1f;
+  font-size: small;
+  padding: 10px 0 10px 0;
+  border: none;
+  background-color: #f9e897;
+}
+
+.product-complaint {
+  width: 90%;
+  height: 70%;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  background-color: #f9e897;
+  border-radius: 20px;
+}
+
+.product-details {
+  text-align: center;
+}
+
+.product-img-inside {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  padding: 10px 10px 0 10px;
+}
+
+.customer-mesaage {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.user-msg {
+  width: 95%;
+  height: 100px;
+  margin: 10px;
+  margin-bottom: 0;
+  border-radius: 10px;
+  background-color: #ffc374;
+}
+
+.user-msg > p {
+  position: absolute;
+  left: 49%;
+}
+
+.userName {
+  position: absolute;
+  right: 7%;
+  top: 37%;
+}
+
+.customer-care-msg {
+  width: 95%;
+  height: 100px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #7f9f80c4;
+}
+
+.customer-care-msg > p {
+  position: absolute;
+  left: 49%;
+}
+
+.btns > form > label {
+  margin-left: 10px;
+}
+
+.btns > form > input {
+  display: block;
+  width: 95%;
+  height: 100px;
+  margin: 10px;
+}
+
+.form-btn {
+  width: 60px;
+  height: 40px;
+  padding: 0;
+  margin: -6px 16px 3px 0;
+  position: relative;
+  left: 89%;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #2f1f1f;
+  font-size: small;
+  border: none;
+  background-color: #ffc374;
+}
+
+button {
+  font-weight: 700;
+}
