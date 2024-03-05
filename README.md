@@ -6,7 +6,7 @@ This app is for the customer care of a particular company which helps in trackin
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Github URL: [Github Repo](https://github.com/Nitesh-bit/Product-Complaint-Management-App/tree/master?tab=readme-ov-file)
-- Live Site URL: [Project Link]()
+- Live Site URL: [Project Link](https://products-complaint-management-app.netlify.app/)
 
 ## My process
 
@@ -47,6 +47,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - [React](https://reactjs.org/) - JS library
+- Vite with react
 - Functional Component
 - States and Props
 - useState
