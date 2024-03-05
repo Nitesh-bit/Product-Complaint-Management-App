@@ -27,7 +27,7 @@ Users should be able to:
 - View the product complaint depend upon the selection of the product by User.
 - Reply to the customer regarding the updates of the Product.
 
-### Screenshot
+### Screenshots
 
 ![UI Design of Home page](./public/UI%20design%201.PNG)
 ![UI Design of Complaint component](./public/UI%20design%202.PNG)
@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Github URL: [Github Repo](https://github.com/Nitesh-bit/Product-Complaint-Management-App/tree/master?tab=readme-ov-file)
+- Live Site URL: [Project Link]()
 
 ## My process
 
@@ -61,7 +61,7 @@ Here, I learned more about the react props and states. I used the concept props 
 
 ## Author
 
-- Frontend Mentor - [Nitesh Chaudhary](https://www.frontendmentor.io/home)
+- Frontend Mentor - [Nitesh Chaudhary](https://www.frontendmentor.io/profile/Nitesh-bit)
 
 ## Acknowledgments
 
