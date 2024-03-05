@@ -61,7 +61,7 @@ Here, I learned more about the react props and states. I used the concept props 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Nitesh Chaudhary](https://www.frontendmentor.io/home)
 
 ## Acknowledgments
 
